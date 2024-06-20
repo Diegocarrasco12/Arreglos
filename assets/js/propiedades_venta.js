@@ -37,7 +37,7 @@ const propiedades_venta = [
     },
     {
       title: "Apartamento moderno en el distrito financiero",
-      src: "https://www.adondevivir.com/noticias/wp-content/uploads/2016/08/depto-1024x546.jpg",
+      src: "https://www.orangesmile.com/extreme/img/main/international-financial-center_1.jpg",
       description:
         "Este apartamento de diseño moderno está ubicado en el centro del distrito financiero",
       address: "890 Financial Avenue, Downtown City, CA 78901",
